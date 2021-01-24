@@ -9,7 +9,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text= "Shayan is gay but he likes woman for some reason, woman as in little girls sus "
+        android:text= "Shayan is gay but he likes woman for some reason, woman as in little girls sus .... no he does not, I heard he like you :eyes: "
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
